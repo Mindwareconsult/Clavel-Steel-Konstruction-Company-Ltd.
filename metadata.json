@@ -1,0 +1,6 @@
+{
+  "name": "Clavel Steel Konstruction",
+  "description": "Specialist steel construction, structural fabrication, industrial structures, filling station canopies, storage tanks, and professional welding training based in Awka, Anambra State, Nigeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

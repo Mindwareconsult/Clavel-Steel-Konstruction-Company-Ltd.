@@ -1,0 +1,954 @@
+# MASTER BUILD PROMPT: CLAVEL STEEL KONSTRUCTION COMPANY LTD
+## Premium Industrial, Steel Construction & Metal Fabrication Website
+
+### 1. YOUR ROLE AND OBJECTIVE
+
+Act as a senior digital agency team comprising:
+
+- A world-class UI/UX designer specializing in premium industrial and construction websites.
+- A senior frontend engineer and full-stack web architect.
+- A brand identity and visual design specialist.
+- A technical SEO and local SEO strategist for Nigerian businesses.
+- A conversion-rate optimization specialist.
+- A content strategist for steel construction, metal fabrication, industrial engineering, and commercial construction.
+- A web accessibility, performance, security, and quality-assurance engineer.
+
+Your assignment is to design and build a complete, premium, modern, responsive, production-oriented website for:
+
+**CLAVEL STEEL KONSTRUCTION COMPANY LTD**
+
+The website must have the visual sophistication, design quality, content depth, functionality, and polish expected from a custom website commissioned from a premium digital agency for approximately $10,000.
+
+The $10,000 figure describes the intended quality standard, not a displayed website price, construction quotation, or claim about the company's services.
+
+Do not produce a generic construction template with a green logo and a few stock photographs. Create a distinctive digital brand experience that communicates structural strength, technical competence, professional workmanship, engineering precision, and dependable service.
+
+The final website must be suitable for presentation to the company owner and capable of becoming the foundation for a real business website.
+
+### 2. SOURCE FILES AND ASSET ANALYSIS
+
+The project includes four supplied files:
+
+1. **About.rar** — company marketing materials, branding artwork, and project-related visual assets.
+2. **INSPIRE.rar** — website design inspiration images and visual references intended to guide the UI.
+3. **Clavel_Steel_Konstruction_Company_Profile.docx** — the company's profile, identity, services, positioning, contact details, and business information.
+4. **Clavel_Steel_Konstruction_Brand_Colour_Palette.docx** — the official working digital colour palette and its usage rules.
+
+Treat these files as the primary sources of truth for the website.
+
+Before implementation:
+
+1. Inspect and extract the marketing archive, preserving original image quality.
+2. Inspect every website inspiration image, including the complete layout, typography, image composition, section structure, navigation, spacing, cards, buttons, and colour usage.
+3. Read the complete company profile and brand palette documents.
+4. Identify the official logo, branded graphics, project images, and any other useful marketing assets.
+5. Create an asset inventory mapping each usable image to the appropriate website section.
+6. Identify which visual references should influence the website's layout, interaction patterns, and visual hierarchy.
+7. Separate the company's actual information from suggested marketing language and any details that require confirmation.
+
+Do not treat the inspiration images as assets to copy blindly. Use them as visual references to create an original, coherent website that combines their strongest design principles with Clavel's identity.
+
+If an archive cannot be extracted, request the individual files or continue with the accessible materials while clearly documenting what remains unavailable. Do not silently substitute imagined project photographs or invented brand assets.
+
+### 3. BUSINESS IDENTITY AND POSITIONING
+
+Use the following business identity consistently.
+
+**Company name:** Clavel Steel Konstruction Company Ltd
+
+**Industry:** Steel construction, metal fabrication, and engineering support.
+
+**Primary location:** Awka, Anambra State, Nigeria.
+
+**Primary tagline:** Creating your structure...
+
+**Supporting brand promise:** Your Trusted Partner in Steel Excellence.
+
+**Brand personality:** Industrial, premium, technically capable, reliable, precise, professional, safety-conscious, and customer-focused.
+
+Position the company as:
+
+“A specialist steel construction and fabrication company delivering structural, industrial, roofing, storage, security, and steel-material solutions.”
+
+Do not position the company merely as a small welding workshop or a generic building contractor.
+
+The website must communicate its broader capabilities across structural steelwork, industrial facilities, warehouse construction, filling-station canopies, roofing, tanks, security installations, transportation-related steelwork, welding, materials supply, and technical training.
+
+Use the tagline naturally. Do not force it into every section.
+
+### 4. TARGET AUDIENCES
+
+Design the website for the following audiences:
+
+- Property owners and homeowners.
+- Commercial property developers and facility operators.
+- Industrial businesses and manufacturers.
+- Warehouse developers and operators.
+- Filling-station owners and operators.
+- Building and civil engineering contractors.
+- Architects, engineers, quantity surveyors, and project managers.
+- Institutions, schools, churches, and other organizations.
+- Businesses requiring storage tanks, steel structures, roofing, gates, or security metalwork.
+- Fabricators, welders, and prospective welding trainees.
+- Businesses seeking steel and aluminium materials.
+
+Prioritize decision-makers who need a reliable contractor or supplier and want to understand the company's capabilities before requesting a quotation.
+
+The user journey should make it easy to:
+
+1. Understand what Clavel does.
+2. Find the relevant service.
+3. Review relevant project imagery and capabilities.
+4. Understand the company's professional approach.
+5. Request a quotation or consultation.
+6. Contact the company directly by telephone, WhatsApp, or email.
+
+### 5. BRAND DESIGN SYSTEM
+
+Implement the supplied brand palette accurately.
+
+#### Primary palette
+
+- Clavel Green: `#228940`
+- Clavel Bright Green: `#2DA447`
+- Deep Forest Green: `#032C16`
+- Signal Yellow: `#D5DD27`
+- Industrial Silver: `#808482`
+- Charcoal: `#20201E`
+- Near Black: `#000C00`
+- White: `#FFFFFF`
+
+#### Colour hierarchy
+
+Use Deep Forest Green or Near Black for premium hero backgrounds, dark feature sections, and the footer.
+
+Use Clavel Green as the principal brand colour for primary actions, headings, important highlights, and selected graphic elements.
+
+Use Clavel Bright Green sparingly for hover states, subtle gradients, and visual emphasis.
+
+Use Signal Yellow selectively for small high-priority accents, engineering details, indicators, and welding-inspired visual motifs. It must never dominate the design.
+
+Use Industrial Silver for borders, fine technical lines, metal-inspired graphic elements, and secondary interface details.
+
+Use white generously for contrast, clarity, readable content, and clean service sections.
+
+Use Charcoal for readable text on light backgrounds.
+
+Do not use every palette colour at equal intensity. Maintain a disciplined industrial design system with one dominant colour, one supporting colour, and restrained accents.
+
+#### Design direction
+
+Create a premium industrial aesthetic that feels engineered rather than decorative.
+
+The design should combine:
+
+- Strong, oversized editorial typography.
+- Precise alignment and grid-based layouts.
+- High-quality construction and fabrication imagery.
+- Deep, cinematic dark sections.
+- Generous white space.
+- Large project photographs with carefully controlled cropping.
+- Subtle technical linework and geometric details.
+- Sophisticated image overlays.
+- Restrained motion and smooth transitions.
+- Clean, readable body typography.
+- Confident, highly visible calls to action.
+
+Avoid generic template aesthetics, excessive rounded cards, random gradients, excessive shadows, unnecessary glassmorphism, cartoon illustrations, excessive animations, and decorative elements that compete with the project imagery.
+
+Use a professional typography pairing, such as a modern geometric or industrial-inspired sans-serif for headings and a highly readable sans-serif for body text. Use fonts that can be loaded reliably in production and provide sensible fallbacks.
+
+### 6. VISUAL INSPIRATION IMPLEMENTATION
+
+Study the images inside INSPIRE.rar before finalizing the design.
+
+Identify the most relevant design ideas from the references, including:
+
+- Header and navigation design.
+- Hero composition.
+- Typography scale and text positioning.
+- Full-width and split-screen layouts.
+- Image-to-text ratios.
+- Project portfolio presentation.
+- Service navigation patterns.
+- Dark and light section transitions.
+- Button styles and interaction states.
+- Footer composition.
+- Mobile navigation and responsive behaviour.
+
+Use these references as deliberate design inputs rather than vague inspiration.
+
+Where appropriate, combine the strongest ideas from multiple references into one consistent visual system.
+
+Do not reproduce another company's name, logo, proprietary content, or exact page design. Translate the references into an original Clavel-branded experience.
+
+If a reference contains a design feature that conflicts with the supplied brand palette, business requirements, accessibility, or usability, adapt it rather than copying it literally.
+
+### 7. MARKETING ASSET STRATEGY
+
+Inspect About.rar and identify the actual company logo, brand artwork, project photographs, construction images, workshop images, steelwork, finished installations, and other available assets.
+
+Use genuine company materials wherever possible.
+
+Prioritize real project images in the hero, portfolio, service sections, and relevant case studies.
+
+Preserve the supplied logo's proportions, colours, and visual integrity. Do not redraw it unnecessarily, distort it, or replace it with a generic icon.
+
+Create an asset manifest identifying each selected asset and its intended use.
+
+For each image, use appropriate dimensions, responsive sizing, descriptive alternative text, and modern image formats where supported.
+
+Do not invent project names, client names, project locations, completion dates, budgets, engineering specifications, certifications, or performance results based on photographs alone.
+
+If the marketing archive contains insufficient imagery for a particular service, use a clearly appropriate, licensed industrial image as a temporary visual asset or create a neutral image placeholder. Do not represent a stock photograph as a completed Clavel project.
+
+Use consistent image treatment across the website without making every section look identical.
+
+### 8. WEBSITE ARCHITECTURE
+
+Build a multi-page website with a strong homepage and dedicated pages for major services.
+
+Implement the following information architecture.
+
+**Primary navigation**
+
+1. Home
+2. About Us
+3. Services
+4. Projects
+5. Materials Supply
+6. Welding Training
+7. Contact
+
+Include a prominent “Request a Quote” button.
+
+Use a clear Services dropdown on desktop and a functional, accessible mobile navigation menu.
+
+#### Page 1: Homepage
+
+The homepage should provide a compelling overview of the company's identity, services, work, and contact options.
+
+Recommended section order:
+
+1. Premium navigation header.
+2. Hero section.
+3. Trust and capability strip.
+4. Company introduction.
+5. Featured services.
+6. Featured projects or project gallery.
+7. Why choose Clavel.
+8. Industries and client types served.
+9. How the company approaches projects.
+10. Materials supply and fabrication capabilities.
+11. Welding expertise and training.
+12. Frequently asked questions.
+13. Prominent quotation or consultation CTA.
+14. Contact information and location.
+15. Premium footer.
+
+The homepage must not feel like a long, repetitive template. Use varied layouts and a deliberate narrative.
+
+#### Page 2: About Us
+
+Include:
+
+- Company overview.
+- Business identity and specialization.
+- Company mission.
+- Company vision.
+- Core values.
+- Technical capabilities.
+- Approach to quality and workmanship.
+- Safety-conscious working principles.
+- Service philosophy.
+- Geographic base.
+- A relevant CTA.
+
+Use the supplied profile as the factual basis.
+
+The mission and vision in the profile are recommended statements. They may be used as proposed brand copy but should be presented to the company for approval before being treated as formally adopted statements.
+
+Do not invent a founding year, founder biography, number of employees, workshop capacity, company history, or professional memberships.
+
+#### Page 3: Services overview
+
+Create a dedicated services landing page that organizes the company's capabilities into clear, easy-to-understand categories.
+
+Include:
+
+- Service overview.
+- Service category cards.
+- Short descriptions focused on customer needs.
+- Relevant project imagery.
+- Links to individual service pages.
+- A service enquiry CTA.
+
+#### Pages 4–12: Individual service pages
+
+Create dedicated pages for the following services:
+
+**A. Steel Construction & Structural Fabrication**
+
+Cover structural steelwork, frameworks, fabricated components, steel installations, and general steel construction.
+
+**B. Industrial Structures & Warehouse Construction**
+
+Cover industrial buildings, warehouses, industrial sheds, steel platforms, equipment support structures, and storage facilities, subject to project scope.
+
+**C. Filling-Station Canopies & Commercial Canopies**
+
+Cover steel canopy fabrication and installation for filling stations and other suitable commercial or industrial applications.
+
+**D. Roofing & Architectural Metalwork**
+
+Cover steel roofing, aluminium roofing, roof support structures, canopies, rails, and related fabricated architectural components.
+
+**E. Tanks & Storage Solutions**
+
+Cover overhead tanks, storage tanks, underground tanks, tank supports, and stanchions.
+
+Include a clear note that specifications, design requirements, and applicable compliance obligations must be confirmed for each project.
+
+**F. Security Steelwork**
+
+Cover burglary-proof systems, gates, steel doors, rails, and protective metalwork.
+
+**G. Welding & Metal Fabrication**
+
+Explain the company's practical fabrication capabilities and welding expertise, including SMAW/MMA and GTAW/TIG.
+
+**H. Transportation-Related Steelwork**
+
+Cover trailer, truck, and tank-related fabrication as supported by the supplied company materials.
+
+**I. Steel & Aluminium Materials Supply**
+
+Explain the supply of steel and aluminium materials. Do not invent stock availability, brands, grades, sizes, delivery times, or prices.
+
+Each service page must contain:
+
+- A service-specific hero.
+- A clear customer-focused introduction.
+- A description of relevant capabilities.
+- Appropriate images.
+- Typical applications.
+- Relevant considerations or scope dependencies.
+- Related services.
+- Frequently asked questions where useful.
+- A quotation or consultation CTA.
+- Contextual internal links.
+
+Do not claim that engineering design, certification, statutory approvals, or regulated installations are automatically included unless confirmed by the company.
+
+#### Page 13: Projects / Portfolio
+
+Create a visually impressive project portfolio using the actual marketing photographs supplied.
+
+Features should include:
+
+- A premium gallery layout.
+- Project category filters where justified by the available material.
+- Large image previews.
+- Image lightbox functionality.
+- Optional project detail pages for verified projects.
+- Clear links to relevant services.
+- An enquiry CTA.
+
+Possible categories include structural steelwork, industrial structures, warehouses, canopies, roofing, tanks, security metalwork, and fabrication.
+
+Only display categories supported by actual images or confirmed company information.
+
+Where project details are missing, use neutral captions such as “Steel fabrication work” or “Industrial steel structure” if the image supports that description.
+
+Never invent client testimonials, project outcomes, project values, or named case studies.
+
+#### Page 14: Welding Training
+
+Explain the company's stated professional welding training capabilities in:
+
+- SMAW/MMA — Shielded Metal Arc Welding / Manual Metal Arc Welding.
+- GTAW/TIG — Gas Tungsten Arc Welding / Tungsten Inert Gas.
+
+Include an overview, relevant imagery, a training enquiry form, and a contact CTA.
+
+Do not invent course duration, fees, admission requirements, accreditation, certification, or guaranteed employment outcomes. Mark such details for confirmation.
+
+#### Page 15: Contact & Request a Quote
+
+Provide a comprehensive contact experience with:
+
+- Telephone contact options.
+- WhatsApp enquiry.
+- Email.
+- Business location in Awka, Anambra State, Nigeria.
+- Business hours, subject to confirmation.
+- A project enquiry form.
+- A service selection field.
+- A preferred contact method.
+- An optional budget range.
+- An optional project timeline.
+- An optional file attachment field if supported by the chosen implementation.
+- Privacy information.
+- Form validation and success/error states.
+
+The contact experience should work well on desktop and mobile.
+
+### 9. HOMEPAGE HERO — HIGH PRIORITY
+
+The hero section must be the visual centrepiece of the website.
+
+Create a cinematic, premium industrial hero that feels suitable for an established steel construction and engineering company.
+
+Preferred direction:
+
+- Deep Forest Green or Near Black background.
+- Large, confident headline.
+- Strong supporting copy.
+- A large genuine steel construction or fabrication photograph from the supplied assets.
+- Subtle industrial linework or metallic detailing.
+- A carefully composed image overlay where necessary.
+- High-contrast typography.
+- A primary quotation CTA.
+- A secondary service-exploration CTA.
+
+Use the primary headline:
+
+**“Creating Your Structure. Delivering Steel Excellence.”**
+
+Use supporting copy such as:
+
+“Specialist steel construction, structural fabrication, roofing, industrial structures, storage solutions and metalwork for residential, commercial and industrial applications.”
+
+Use this as proposed marketing copy, not a claim of an independently verified performance record.
+
+Primary CTA: **Request a Project Quote**
+
+Secondary CTA: **Explore Our Services**
+
+Add a small location or capability label such as “Steel Construction & Fabrication | Awka, Anambra State, Nigeria.”
+
+Do not place too much text in the hero. The visual hierarchy should remain clear.
+
+If the reference images suggest a stronger alternative layout, adapt the hero accordingly while preserving the brand identity and conversion objectives.
+
+### 10. PREMIUM UI DETAILS
+
+Implement the following design standards:
+
+- A polished header with consistent spacing and clear navigation.
+- A header that may become compact or sticky when appropriate.
+- A sophisticated hero with high-quality photography.
+- Alternating dark and light content sections.
+- Strong typographic hierarchy.
+- Consistent content width and grid alignment.
+- Professional service cards.
+- Subtle border treatments inspired by industrial materials.
+- Purposeful image cropping and consistent aspect ratios.
+- Well-designed form fields and validation states.
+- Clear hover, focus, active, and disabled states.
+- Restrained scroll and entrance animations.
+- Smooth anchor navigation.
+- A refined footer with clear contact information.
+- Responsive layouts for mobile, tablet, laptop, and large desktop screens.
+
+Use subtle animation only when it enhances understanding or polish.
+
+Respect reduced-motion preferences. Ensure that content and navigation remain usable without animation.
+
+Avoid excessive floating widgets, distracting motion, oversized empty sections, generic icon grids, and unnecessary UI decoration.
+
+### 11. CONVERSION AND CONTACT FUNCTIONALITY
+
+The website's primary business objective is to generate qualified enquiries for the company's services.
+
+Implement clear conversion paths throughout the site.
+
+#### WhatsApp
+
+Use the verified company contact number, formatted correctly for international WhatsApp links.
+
+The profile lists 0803 672 9660 as the primary phone number. Confirm that this number is also the correct WhatsApp number before publishing a WhatsApp link.
+
+Generate contextual prefilled enquiry messages. For example:
+
+“Hello Clavel Steel Konstruction Company Ltd. I would like to enquire about your structural steel fabrication services. Please let me know how I can discuss my project requirements.”
+
+For individual services, personalize the message to the service being viewed.
+
+Use the official WhatsApp click-to-chat URL format and encode the message correctly.
+
+Do not assume every listed phone number is WhatsApp-enabled.
+
+#### Telephone
+
+Provide functional `tel:` links using verified telephone numbers.
+
+The profile lists these contacts:
+
+- 0803 672 9660
+- 0810 466 3601
+- 0907 353 3298
+- 0815 128 6121
+
+Present the primary number prominently and secondary numbers where appropriate, subject to confirmation.
+
+#### Email
+
+Use the supplied business email:
+
+clavelkonstruction@gmail.com
+
+Implement a functional `mailto:` link.
+
+#### Forms
+
+Build a working project enquiry form with:
+
+- Full name.
+- Phone number.
+- Email address.
+- Service required.
+- Project location.
+- Project description.
+- Optional estimated budget.
+- Optional preferred timeline.
+- Preferred contact method.
+- Consent to the applicable privacy notice.
+
+Implement client-side validation and clear error messages.
+
+Do not create a fake submission success message if no backend or delivery integration exists.
+
+If backend integration is not configured, provide a working fallback that allows the user to submit the enquiry through an appropriate configured channel, such as WhatsApp or email, after reviewing the information.
+
+Where a backend is implemented, validate data on the server, protect against spam, and provide a clear confirmation state.
+
+Clearly document which form integrations are functional and which require configuration.
+
+### 12. COMPANY INFORMATION AND CONTENT ACCURACY
+
+Use the supplied profile for company descriptions, service categories, brand positioning, and contact information.
+
+Important content rules:
+
+- Do not invent completed projects.
+- Do not invent client names.
+- Do not invent awards or certifications.
+- Do not invent staff biographies.
+- Do not invent a founding year.
+- Do not invent years of experience.
+- Do not invent employee numbers.
+- Do not invent customer counts.
+- Do not invent project values.
+- Do not invent testimonials.
+- Do not fabricate safety records or engineering approvals.
+- Do not claim nationwide operations without confirmation.
+- Do not invent stock levels or material prices.
+- Do not invent guarantees, warranties, or delivery timelines.
+
+The company's location is Awka, Anambra State, Nigeria. Describe it as Awka-based unless the company confirms a broader operating footprint.
+
+The profile supplies a Google Business rating of 5.0/5 from one review. Do not prominently advertise this as a major trust claim without checking the current listing and confirming the rating. Never invent additional reviews.
+
+Use a restrained, professional writing style. Avoid exaggerated phrases such as “Nigeria's number one steel construction company” unless independently substantiated.
+
+### 13. LOCAL SEO AND ORGANIC SEARCH
+
+Implement technical SEO and local SEO as part of the actual website.
+
+The main geographic focus should initially be Awka and Anambra State, with other locations targeted only where the company confirms that it serves them.
+
+#### Keyword themes
+
+Develop relevant keyword groups around:
+
+- Steel construction in Awka.
+- Steel fabrication in Awka.
+- Metal fabrication in Anambra State.
+- Structural steel fabrication.
+- Warehouse construction.
+- Industrial steel structures.
+- Filling-station canopy fabrication.
+- Steel roofing and aluminium roofing.
+- Overhead and storage tanks.
+- Steel gates and security metalwork.
+- Steel and aluminium materials supply.
+- Welding services.
+- SMAW/MMA welding training.
+- GTAW/TIG welding training.
+
+Treat these as research targets, not claims that the company already ranks for them or that their search volume is known.
+
+#### Technical SEO
+
+Implement:
+
+- Unique page titles.
+- Unique meta descriptions.
+- Semantic heading structure.
+- Descriptive, readable URLs.
+- Canonical URLs when the production domain is known.
+- XML sitemap generation.
+- A suitable robots.txt.
+- Correct HTTP status handling in production.
+- Breadcrumb navigation on relevant inner pages.
+- Descriptive image filenames and alt text.
+- Internal links between relevant services and projects.
+- Open Graph metadata.
+- Social sharing metadata.
+- Favicon and site icon.
+- Proper language declaration for English.
+- Mobile-friendly layouts.
+- Structured data using appropriate schema types.
+
+Use LocalBusiness or a suitable more specific business schema where applicable, Organization schema, Service schema for relevant services, and BreadcrumbList where appropriate.
+
+Only include verified contact information and actual operating hours in structured data.
+
+Do not add fabricated aggregate ratings, reviews, addresses, credentials, or geographic service areas to schema markup.
+
+#### Local landing pages
+
+Do not create dozens of near-duplicate city pages.
+
+Build the main website around the verified Awka location. Additional location-specific landing pages may be added later when the company confirms the service area and there is enough unique, useful information to support each page.
+
+#### SEO content
+
+Write meaningful, service-specific copy that explains what the company does and helps customers decide what to enquire about.
+
+Do not keyword-stuff the content.
+
+Include descriptive page headings, useful FAQs, related-service links, and clear contact opportunities.
+
+### 14. PERFORMANCE AND ACCESSIBILITY
+
+Aim for a fast, accessible, mobile-first experience.
+
+Implement:
+
+- Responsive images.
+- Appropriate image compression.
+- Lazy loading for below-the-fold images.
+- Priority loading for the primary hero image where appropriate.
+- Minimal unnecessary JavaScript.
+- Efficient component reuse.
+- Reduced layout shifts.
+- Semantic HTML.
+- Keyboard-accessible navigation.
+- Visible focus indicators.
+- Proper form labels.
+- Accessible contrast.
+- Descriptive alternative text.
+- Appropriate button and link semantics.
+- Reduced-motion support.
+- Accessible image galleries and menus.
+
+Use Core Web Vitals as optimization targets. Do not claim a Lighthouse score or performance result unless the website has actually been tested.
+
+Target a strong production performance profile, including good loading, responsiveness, and visual stability on realistic mobile connections.
+
+### 15. TECHNICAL ARCHITECTURE
+
+Choose a modern, maintainable implementation supported by the current Google AI Studio environment.
+
+First determine whether the current build environment supports a full-stack application or primarily a frontend preview.
+
+If supported, use a maintainable framework and component architecture suitable for a professional multi-page website.
+
+Suggested implementation preferences:
+
+- React with TypeScript when supported.
+- Reusable page layouts and UI components.
+- Centralized brand tokens and design variables.
+- A clear separation between content, layout, and functionality.
+- A maintainable routing strategy.
+- Reusable SEO metadata utilities.
+- A consistent image and asset management strategy.
+- Environment variables for configuration and secrets.
+- A backend or serverless integration where actual form delivery requires it.
+
+Use the framework and dependencies supported by the current environment rather than forcing an incompatible stack.
+
+Create reusable components for:
+
+- Header.
+- Desktop navigation.
+- Mobile navigation.
+- Footer.
+- Hero.
+- Service cards.
+- Project gallery.
+- CTA sections.
+- Contact forms.
+- Breadcrumbs.
+- FAQ accordions.
+- Related services.
+- Contact buttons.
+
+Keep company details, contact information, navigation, service data, and SEO metadata easy to update.
+
+Do not hardcode secrets, private API keys, or credentials in frontend code.
+
+Do not pretend that a database, CMS, analytics platform, or email delivery service exists if it has not been configured.
+
+### 16. OPTIONAL CONTENT MANAGEMENT AND FUTURE EXPANSION
+
+Structure the website so that it can later support:
+
+- New projects and portfolio entries.
+- Additional service pages.
+- New project photographs.
+- Company announcements.
+- Articles and technical guides.
+- New operating locations, when verified.
+- Training updates.
+- Additional materials categories.
+
+For the first version, prioritize a stable, polished corporate website over unnecessary complexity.
+
+If the current environment supports a real backend and content management system, propose a practical implementation. Otherwise, use a well-organized content structure and document how future updates can be made.
+
+Do not build a complicated admin dashboard unless it is necessary and fully supported.
+
+### 17. ANALYTICS AND CONVERSION TRACKING
+
+Prepare the website for measurable marketing performance.
+
+Identify the events that should eventually be tracked:
+
+- Primary quotation CTA clicks.
+- Telephone link clicks.
+- WhatsApp link clicks.
+- Email link clicks.
+- Contact form starts.
+- Successful form submissions.
+- Service page engagement.
+- Project gallery interactions.
+- Relevant outbound enquiries.
+
+Support Google Analytics 4 and Google Tag Manager integration where appropriate.
+
+Do not fabricate analytics IDs, tracking results, or completed integrations.
+
+If credentials are not supplied, create a clearly documented configuration point and explain how to add the real tracking IDs.
+
+Respect applicable consent and privacy requirements when adding analytics or advertising technologies.
+
+### 18. SECURITY AND PRIVACY
+
+Implement reasonable production security practices appropriate to the chosen stack.
+
+Include:
+
+- Secure handling of form submissions.
+- Server-side validation when a backend exists.
+- Input sanitization and appropriate output encoding.
+- Spam mitigation.
+- Rate limiting where supported.
+- Safe file-upload handling if uploads are implemented.
+- Secure environment variable management.
+- No secrets in the browser bundle.
+- Appropriate security headers in production.
+- HTTPS requirements for deployment.
+- Clear privacy information.
+- Data minimization for enquiry forms.
+
+Do not collect unnecessary sensitive information.
+
+If a privacy policy is required, create a draft based on the actual data collection and integration behaviour, and flag it for company review rather than inventing legal guarantees.
+
+### 19. FOOTER DESIGN
+
+Create a premium, dark footer using Deep Forest Green or Near Black.
+
+Include:
+
+- Company name and logo.
+- Tagline: “Creating your structure...”
+- A short company description.
+- Links to important services.
+- Main navigation links.
+- Verified contact information.
+- Location: Awka, Anambra State, Nigeria.
+- Social media links only after their official URLs are confirmed.
+- Privacy policy link where implemented.
+- Copyright notice using the current year dynamically where supported.
+
+Keep the footer clean, structured, and easy to navigate.
+
+Do not use placeholder social media URLs that appear to be official company accounts.
+
+### 20. RESPONSIVE DESIGN REQUIREMENTS
+
+Design and test the website for the following screen classes:
+
+- Small mobile phones.
+- Large mobile phones.
+- Tablets.
+- Standard laptops.
+- Large desktop displays.
+
+At mobile widths:
+
+- Use a compact, functional navigation.
+- Maintain readable text sizes.
+- Prevent horizontal overflow.
+- Keep the primary contact and quotation actions accessible.
+- Stack complex layouts sensibly.
+- Optimize images for the available viewport.
+- Keep forms easy to complete.
+- Avoid excessively tall hero sections.
+- Make tap targets comfortable to use.
+- Ensure the footer remains usable.
+
+Do not simply shrink the desktop design. Adapt the content hierarchy and composition to mobile behaviour.
+
+### 21. REQUIRED BUILD WORKFLOW
+
+Follow this sequence.
+
+**Phase 1 — Source analysis**
+
+Inspect the company profile, colour palette, marketing archive, and inspiration archive.
+
+Produce a concise design and content interpretation before making major architectural decisions.
+
+Identify missing or ambiguous information.
+
+**Phase 2 — Design system**
+
+Define:
+
+- Brand tokens.
+- Typography.
+- Spacing.
+- Grid.
+- Button styles.
+- Navigation.
+- Card styles.
+- Image treatments.
+- Section patterns.
+- Responsive breakpoints.
+- Interaction states.
+
+**Phase 3 — Homepage design**
+
+Build the homepage first as the visual benchmark.
+
+Ensure the hero, typography, imagery, palette, and overall composition are genuinely premium before expanding the remaining pages.
+
+**Phase 4 — Complete page implementation**
+
+Build the navigation, shared components, service pages, portfolio, About page, training page, contact page, and footer.
+
+Do not leave important navigation items pointing to empty pages.
+
+**Phase 5 — Functional implementation**
+
+Connect real contact links, contextual WhatsApp messages, telephone links, email links, navigation, gallery interactions, FAQs, and forms.
+
+Clearly identify anything requiring external credentials or a backend.
+
+**Phase 6 — SEO and content**
+
+Add metadata, internal links, schema markup, image alt text, local SEO content, sitemap support, and technical SEO configuration.
+
+**Phase 7 — Quality assurance**
+
+Test all routes, controls, links, forms, responsive layouts, images, and interactions.
+
+Fix broken layouts, missing images, console errors, accessibility issues, and dead navigation links.
+
+**Phase 8 — Delivery and deployment preparation**
+
+Provide clear instructions for local development, configuration, environment variables, deployment, domain connection, analytics setup, and future content updates.
+
+If a step cannot be completed because of a missing credential, service, or platform limitation, document the dependency explicitly.
+
+### 22. ACCEPTANCE CRITERIA
+
+The website is not complete until the following requirements are met.
+
+#### Visual quality
+
+- The design feels premium, original, and suitable for a specialist steel construction company.
+- The supplied colour palette is applied consistently.
+- The official logo is used correctly.
+- The inspiration images have informed deliberate design decisions.
+- Genuine company imagery is used wherever available.
+- Typography, spacing, image composition, and section transitions feel intentional.
+- The mobile design is as carefully considered as the desktop design.
+
+#### Content
+
+- The company is positioned as a specialist steel construction and fabrication business.
+- The core services are represented accurately.
+- The company location and identity are consistent.
+- No fabricated testimonials, projects, credentials, prices, or performance claims appear.
+- All unverified business information is flagged for confirmation.
+
+#### Functionality
+
+- All navigation links work.
+- Every implemented page loads correctly.
+- Telephone links use the verified phone numbers.
+- WhatsApp links open with the appropriate prefilled message.
+- Email links work.
+- Forms validate input and have meaningful submission behaviour.
+- Gallery controls and FAQs work where implemented.
+- Mobile navigation works.
+- No important button is decorative or nonfunctional.
+
+#### SEO and accessibility
+
+- Every main page has appropriate metadata.
+- Headings are logically structured.
+- Internal links connect relevant pages.
+- Images have appropriate alt text.
+- Structured data contains only supported facts.
+- Keyboard navigation and visible focus states work.
+- Layouts remain usable on small screens.
+
+#### Technical quality
+
+- No unresolved critical runtime errors.
+- No broken internal routes.
+- No missing critical assets.
+- No exposed secrets.
+- No false claims about backend integrations.
+- Deployment requirements are documented.
+- Remaining dependencies are clearly identified.
+
+### 23. FINAL DELIVERY
+
+Deliver the actual implemented website, not merely a design description or static mockup.
+
+Also provide:
+
+1. A summary of the pages and features built.
+2. A list of the supplied brand assets used.
+3. A description of the design choices inspired by INSPIRE.rar.
+4. A list of completed functionality.
+5. A list of features requiring external credentials or configuration.
+6. A list of company information requiring confirmation before publication.
+7. A technical SEO checklist.
+8. A quality-assurance report identifying the tests actually performed.
+9. Instructions for deployment and domain connection.
+10. Recommended next steps for launch.
+
+If the environment cannot support a fully production-ready backend, deliver the strongest working implementation supported by the platform and clearly distinguish the frontend implementation from the remaining production integrations.
+
+### 24. FINAL CREATIVE DIRECTION
+
+The website must communicate the following impression within the first few seconds:
+
+“This is a serious, professional steel construction and fabrication company with the technical capabilities, visual identity, and communication standards expected of a premium engineering business.”
+
+Make the result bold but restrained, modern but practical, visually rich but easy to navigate, and conversion-focused without appearing aggressive.
+
+The brand's green identity, steel-inspired imagery, precise typography, and genuine company capabilities must work together as one coherent experience.
+
+Prioritize authenticity, visual excellence, usability, performance, and real business value.
+
+Begin with source analysis and the design system, then proceed to the homepage and complete implementation. Do not stop after presenting a plan or a homepage concept. Continue building, testing, and refining the actual website within the capabilities of the current environment.
